@@ -17,4 +17,8 @@ Recentemente, atuei como professora substituta no Departamento de Computação -
 
 ## Projetos:
 
-* **Agenda de Consultório - Desafio ITIX:** https://github.com/adrianadamata/AgendaConsultorio
+* **Projeto Data Science:** [https://github.com/adrianadamata/Data_Science_Deep_Learning_CNN](Projeto de Deep Learning utiliza o dataset Fashion MNIST para implementar e treinar um modelo de Deep Learning - Convolutional Neural Networks (CNN) )
+* **Notebook de Estudo:** [https://github.com/adrianadamata/Data_Science_Time_Series](Séries Temporais)
+* **Projeto Data Science:** [https://github.com/adrianadamata/Data_Science_Analise_Dados_Violencia_RJ](Análise de dados do ISP - referente à violência no estado do RJ)
+* **Projeto Data Science:** [https://github.com/adrianadamata/Data_Science_Analise_Dados_Airbnb_Havai](Análise de dados do Airbnb baseada em Pesquisa sobre notoriedade das regiões do Havaí)
+* **Agenda de Consultório - Desafio ITIX:** [https://github.com/adrianadamata/AgendaConsultorio](Aplicação Web em ASP.NET Core MVC com Entity Framework)
