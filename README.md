@@ -17,6 +17,7 @@ Recentemente, atuei como professora substituta no Departamento de Computação -
 
 ## Projetos:
 
+* **Projeto Data Science:** [COVID-19 No rastro dos dados - Limitações e Direcionamentos](https://github.com/adrianadamata/Data_Science_COVID-19)
 * **Projeto Data Science:** [Projeto de Deep Learning utiliza o dataset Fashion MNIST para implementar e treinar um modelo de Deep Learning - Convolutional Neural Networks (CNN)](https://github.com/adrianadamata/Data_Science_Deep_Learning_CNN)
 * **Notebook de Estudo:** [Séries Temporais](https://github.com/adrianadamata/Data_Science_Time_Series)
 * **Projeto Data Science:** [Análise de dados do ISP - referente à violência no estado do RJ](https://github.com/adrianadamata/Data_Science_Analise_Dados_Violencia_RJ)
